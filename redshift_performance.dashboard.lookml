@@ -1,4 +1,5 @@
 - dashboard: redshift_performance
+  preferred_viewer: dashboards
   title: Redshift Performance
   layout: newspaper
   elements:
