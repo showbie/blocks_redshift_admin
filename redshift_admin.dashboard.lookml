@@ -1,4 +1,5 @@
 - dashboard: redshift_admin
+  preferred_viewer: dashboards
   title: 'Redshift Admin'
   layout: tile
   tile_size: 100
