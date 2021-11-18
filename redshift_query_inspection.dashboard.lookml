@@ -1,4 +1,5 @@
 - dashboard: redshift_query_inspection
+  preferred_viewer: dashboards
   title: Redshift Query Inspection
   layout: tile
   tile_size: 50
